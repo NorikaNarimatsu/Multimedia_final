@@ -1,0 +1,80 @@
+[00:00.220] SPEAKER_02: Hi, this is Bill Wale in the Host of Good Fellows.
+[00:02.440] SPEAKER_02: Thanks for listening to the audio version of the show,
+[00:04.480] SPEAKER_02: but we want to let you know that Good Fellows
+[00:05.980] SPEAKER_02: is primarily a video production,
+[00:08.040] SPEAKER_02: and you're missing a lot of extra features
+[00:09.620] SPEAKER_02: by only listening to our show.
+[00:11.640] SPEAKER_02: Give it a look by going to Hoover.org
+[00:13.820] SPEAKER_02: forward slash Good Fellows to see what you're missing.
+[00:17.100] SPEAKER_02: Thanks.
+[00:18.340] SPEAKER_00: It's a witch hunt, it's just a continuation of a witch hunt.
+[00:21.030] SPEAKER_00: They want to silence you, they want to silence you,
+[00:24.080] SPEAKER_00: and they mean silence, because I have four of them now.
+[00:26.590] SPEAKER_00: I feel like I mean, this is not even possible for.
+[00:29.720] SPEAKER_00: Over the next less couple of months.
+[00:35.020] SPEAKER_02: It's Tuesday, August 22nd, 2023,
+[00:37.120] SPEAKER_02: and welcome back to Good Fellows,
+[00:38.300] SPEAKER_02: a Hoover Institution broadcast examining
+[00:40.140] SPEAKER_02: social, economic, political, and geopolitical concerns.
+[00:43.640] SPEAKER_02: Bill Wale and I'm a Hoover-to-Singwich Policy Fellow.
+[00:45.910] SPEAKER_02: I'll be your moderator today.
+[00:47.520] SPEAKER_02: I have to report that we have our full compliment
+[00:49.210] SPEAKER_02: of Good Fellows with us today that includes
+[00:51.100] SPEAKER_02: the historian Neil Ferguson.
+[00:53.300] SPEAKER_02: The economist John Cochran from another
+[00:54.960] SPEAKER_02: political occasion, somewhere deep in the heart of Texas.
+[00:57.320] SPEAKER_02: And of course, our resident eternal optimist,
+[01:00.350] SPEAKER_02: Lieutenant General HR, I'm McMaster.
+[01:02.280] SPEAKER_02: They are Hoover Institution's senior Fellows All.
+[01:04.410] SPEAKER_02: And joining us today for a conversation
+[01:06.980] SPEAKER_02: about the law and the 2024 election is Andy McCarthy.
+[01:11.420] SPEAKER_02: Andy is a senior fellow at the National Review Institute,
+[01:13.610] SPEAKER_02: an National Review Contributing Editor,
+[01:15.620] SPEAKER_02: an author of the book, Ball of Confucian,
+[01:17.230] SPEAKER_02: the Plotter Rig and Election to Destroy a Presidency.
+[01:20.000] SPEAKER_02: Andy McCarthy also once served as an assistant
+[01:22.040] SPEAKER_02: U.S. Attorney for the Southern District of New York,
+[01:24.330] SPEAKER_02: which makes in the ideal guest
+[01:25.840] SPEAKER_02: to discuss the collision of America's political and legal systems.
+[01:29.260] SPEAKER_02: Now, Justice is being applied in the campaign season.
+[01:31.680] SPEAKER_02: How this affects both the 2024 election
+[01:34.940] SPEAKER_02: and America's global reputation.
+[01:36.700] SPEAKER_02: Andy McCarthy, welcome to Good Fellows.
+[01:38.760] SPEAKER_01: This is such a trade bill.
+[01:40.100] SPEAKER_01: Thank you so much.
+[01:40.640] SPEAKER_01: I'm a huge fan.
+[01:43.040] SPEAKER_01: And there are some episodes I can only listen to once,
+[01:46.420] SPEAKER_01: but I get to at least one.
+[01:47.630] SPEAKER_01: So it's great to be here.
+[01:49.400] SPEAKER_02: Well, the feeling is mutual.
+[01:50.240] SPEAKER_02: My friend, we're all big admirers.
+[01:51.460] SPEAKER_02: You're writing.
+[01:52.120] SPEAKER_02: There's a lot to get into.
+[01:53.360] SPEAKER_02: I know we want to talk about the specifics
+[01:55.120] SPEAKER_02: in the Trump trial.
+[01:56.400] SPEAKER_02: We want to talk about the ongoing investigation
+[01:59.160] SPEAKER_02: and Mr. Biden.
+[02:00.050] SPEAKER_02: I know you have strong sentiments about this special council.
+[02:02.920] SPEAKER_02: But first, I'd like to pose a big question to you, Andy,
+[02:05.500] SPEAKER_02: which is something along the lines of this.
+[02:08.600] SPEAKER_02: If one of these trials with Donald Trump begins next March,
+[02:11.760] SPEAKER_02: let's say, that is peak primary system.
+[02:14.740] SPEAKER_02: The peak primary time in America.
+[02:16.940] SPEAKER_02: That would seem very unfair to candidate Trump,
+[02:19.340] SPEAKER_02: but it would also argue, Andy, it may be even more unfair
+[02:22.030] SPEAKER_02: to the men and women running against him.
+[02:24.180] SPEAKER_02: Good luck getting attention
+[02:25.140] SPEAKER_02: if the cameras are all falling Donald Trump into a courtroom.
+[02:28.280] SPEAKER_02: On the other side of the aisle,
+[02:29.880] SPEAKER_02: there's a question about how vigorous investigation
+[02:32.180] SPEAKER_02: will be into the president's son.
+[02:33.900] SPEAKER_02: Slow walking, this is been an MO of this so far.
+[02:37.540] SPEAKER_02: If it is so walk through 2024, Republicans will cry, cover up.
+[02:42.040] SPEAKER_02: On the other hand, if the special council pulls a combi
+[02:44.630] SPEAKER_02: and does something on October 4th, the election,
+[02:46.590] SPEAKER_02: and now says he's reopening an investigation,
+[02:49.140] SPEAKER_02: Democrats will cry fell.
+[02:50.880] SPEAKER_02: So here's the question, Andy.
+[02:52.360] SPEAKER_02: Is what we're looking at right now?
+[02:53.940] SPEAKER_02: Is this a set of circumstances unique
+[02:56.670] SPEAKER_02: to the relative failings of Donald Trump and Joe Biden
